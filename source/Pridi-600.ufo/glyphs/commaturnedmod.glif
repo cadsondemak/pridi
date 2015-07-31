@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedmod" format="1">
+  <advance width="327"/>
+  <unicode hex="02BB"/>
+  <note>
+	uni02BB
+  </note>
+  <outline>
+    <contour>
+      <point x="219" y="398" type="line"/>
+      <point x="296" y="639" type="line"/>
+      <point x="146" y="639" type="line"/>
+      <point x="31" y="398" type="line"/>
+    </contour>
+  </outline>
+</glyph>

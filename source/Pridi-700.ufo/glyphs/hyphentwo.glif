@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphentwo" format="1">
+  <advance width="460"/>
+  <unicode hex="2010"/>
+  <note>
+	uni2010
+  </note>
+  <outline>
+    <contour>
+      <point x="435" y="241" type="line"/>
+      <point x="435" y="358" type="line"/>
+      <point x="25" y="358" type="line"/>
+      <point x="25" y="241" type="line"/>
+    </contour>
+  </outline>
+</glyph>

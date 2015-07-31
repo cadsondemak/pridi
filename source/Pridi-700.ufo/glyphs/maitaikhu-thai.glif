@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maitaikhu-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E47"/>
+  <note>
+	maitaikhu-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-87" y="569"/>
+      <point x="-62" y="603"/>
+      <point x="-62" y="670" type="curve" smooth="yes"/>
+      <point x="-62" y="731"/>
+      <point x="-88" y="755"/>
+      <point x="-158" y="755" type="curve" smooth="yes"/>
+      <point x="-207" y="755"/>
+      <point x="-244" y="737"/>
+      <point x="-244" y="694" type="curve"/>
+      <point x="-271" y="721" type="line"/>
+      <point x="-303" y="721" type="line"/>
+      <point x="-339" y="689" type="line"/>
+      <point x="-339" y="721" type="line" smooth="yes"/>
+      <point x="-339" y="752"/>
+      <point x="-327" y="766"/>
+      <point x="-295" y="766" type="curve" smooth="yes"/>
+      <point x="-66" y="766" type="line"/>
+      <point x="-66" y="861" type="line"/>
+      <point x="-329" y="861" type="line" smooth="yes"/>
+      <point x="-407" y="861"/>
+      <point x="-462" y="821"/>
+      <point x="-462" y="731" type="curve" smooth="yes"/>
+      <point x="-462" y="577" type="line"/>
+      <point x="-336" y="577" type="line"/>
+      <point x="-290" y="618" type="line"/>
+      <point x="-276" y="603" type="line" smooth="yes"/>
+      <point x="-253" y="579"/>
+      <point x="-215" y="569"/>
+      <point x="-170" y="569" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-178" y="634"/>
+      <point x="-185" y="640"/>
+      <point x="-185" y="662" type="curve" smooth="yes"/>
+      <point x="-185" y="684"/>
+      <point x="-178" y="690"/>
+      <point x="-155" y="690" type="curve" smooth="yes"/>
+      <point x="-133" y="690"/>
+      <point x="-126" y="684"/>
+      <point x="-126" y="662" type="curve" smooth="yes"/>
+      <point x="-126" y="640"/>
+      <point x="-133" y="634"/>
+      <point x="-155" y="634" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-50" y="572" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-35" y="260" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

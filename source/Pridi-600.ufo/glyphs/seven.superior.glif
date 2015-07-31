@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.superior" format="1">
+  <advance width="284"/>
+  <unicode hex="2077"/>
+  <note>
+	seven.superior
+  </note>
+  <outline>
+    <contour>
+      <point x="159" y="345" type="line"/>
+      <point x="273" y="607" type="line"/>
+      <point x="273" y="657" type="line"/>
+      <point x="11" y="657" type="line"/>
+      <point x="11" y="558" type="line"/>
+      <point x="103" y="558" type="line"/>
+      <point x="103" y="587" type="line"/>
+      <point x="162" y="587" type="line"/>
+      <point x="56" y="345" type="line"/>
+    </contour>
+  </outline>
+</glyph>

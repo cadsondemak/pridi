@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.inferior" format="1">
+  <advance width="337"/>
+  <unicode hex="2085"/>
+  <note>
+	five.inferior
+  </note>
+  <outline>
+    <contour>
+      <point x="262" y="-141"/>
+      <point x="306" y="-97"/>
+      <point x="306" y="-32" type="curve" smooth="yes"/>
+      <point x="306" y="36"/>
+      <point x="266" y="71"/>
+      <point x="181" y="71" type="curve" smooth="yes"/>
+      <point x="126" y="71" type="line"/>
+      <point x="129" y="102" type="line"/>
+      <point x="286" y="102" type="line"/>
+      <point x="286" y="174" type="line"/>
+      <point x="52" y="174" type="line"/>
+      <point x="41" y="59" type="line"/>
+      <point x="41" y="9" type="line"/>
+      <point x="155" y="9" type="line" smooth="yes"/>
+      <point x="192" y="9"/>
+      <point x="204" y="-3"/>
+      <point x="204" y="-32" type="curve" smooth="yes"/>
+      <point x="204" y="-62"/>
+      <point x="192" y="-77"/>
+      <point x="160" y="-77" type="curve" smooth="yes"/>
+      <point x="141" y="-77"/>
+      <point x="126" y="-74"/>
+      <point x="116" y="-67" type="curve"/>
+      <point x="116" y="-34" type="line"/>
+      <point x="31" y="-34" type="line"/>
+      <point x="31" y="-102" type="line"/>
+      <point x="62" y="-128"/>
+      <point x="111" y="-141"/>
+      <point x="161" y="-141" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

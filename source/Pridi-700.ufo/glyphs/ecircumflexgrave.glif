@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave" format="1">
+  <advance width="567"/>
+  <unicode hex="1EC1"/>
+  <note>
+	ecircumflexgrave
+  </note>
+  <outline>
+    <contour>
+      <point x="428" y="-16"/>
+      <point x="495" y="10"/>
+      <point x="545" y="57" type="curve"/>
+      <point x="545" y="146" type="line"/>
+      <point x="392" y="146" type="line"/>
+      <point x="392" y="106" type="line"/>
+      <point x="370" y="96"/>
+      <point x="350" y="93"/>
+      <point x="326" y="93" type="curve" smooth="yes"/>
+      <point x="254" y="93"/>
+      <point x="231" y="124"/>
+      <point x="231" y="203" type="curve"/>
+      <point x="562" y="203" type="line"/>
+      <point x="562" y="251" type="line" smooth="yes"/>
+      <point x="562" y="394"/>
+      <point x="479" y="495"/>
+      <point x="309" y="495" type="curve" smooth="yes"/>
+      <point x="143" y="495"/>
+      <point x="46" y="415"/>
+      <point x="46" y="237" type="curve" smooth="yes"/>
+      <point x="46" y="67"/>
+      <point x="152" y="-16"/>
+      <point x="323" y="-16" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="231" y="353"/>
+      <point x="256" y="385"/>
+      <point x="305" y="385" type="curve" smooth="yes"/>
+      <point x="351" y="385"/>
+      <point x="378" y="353"/>
+      <point x="378" y="299" type="curve"/>
+      <point x="231" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="635" type="line"/>
+      <point x="130" y="781" type="line"/>
+      <point x="-35" y="781" type="line"/>
+      <point x="69" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="520" type="line"/>
+      <point x="305" y="584" type="line"/>
+      <point x="350" y="520" type="line"/>
+      <point x="497" y="520" type="line"/>
+      <point x="379" y="666" type="line"/>
+      <point x="232" y="666" type="line"/>
+      <point x="115" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

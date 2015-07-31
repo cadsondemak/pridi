@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightBlackTriangle" format="1">
+  <advance width="587"/>
+  <unicode hex="25B6"/>
+  <note>
+	uni25B6
+  </note>
+  <outline>
+    <contour>
+      <point x="556" y="299" type="line"/>
+      <point x="31" y="599" type="line"/>
+      <point x="31" y="-1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

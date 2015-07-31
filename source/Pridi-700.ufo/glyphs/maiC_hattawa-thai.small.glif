@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiChattawa-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiChattawa-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-36" y="850" type="line"/>
+      <point x="-36" y="884" type="line"/>
+      <point x="14" y="884" type="line"/>
+      <point x="14" y="992" type="line"/>
+      <point x="-36" y="992" type="line"/>
+      <point x="-36" y="1028" type="line"/>
+      <point x="-195" y="1028" type="line"/>
+      <point x="-195" y="992" type="line"/>
+      <point x="-244" y="992" type="line"/>
+      <point x="-244" y="884" type="line"/>
+      <point x="-195" y="884" type="line"/>
+      <point x="-195" y="850" type="line"/>
+    </contour>
+    <contour>
+      <point x="-35" y="723" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-35" y="522" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

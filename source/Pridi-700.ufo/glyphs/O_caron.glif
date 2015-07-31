@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="1">
+  <advance width="670"/>
+  <unicode hex="01D1"/>
+  <note>
+	Ocaron
+  </note>
+  <outline>
+    <contour>
+      <point x="551" y="-15"/>
+      <point x="655" y="96"/>
+      <point x="655" y="321" type="curve" smooth="yes"/>
+      <point x="655" y="546"/>
+      <point x="560" y="662"/>
+      <point x="335" y="662" type="curve" smooth="yes"/>
+      <point x="110" y="662"/>
+      <point x="15" y="546"/>
+      <point x="15" y="321" type="curve" smooth="yes"/>
+      <point x="15" y="96"/>
+      <point x="118" y="-15"/>
+      <point x="335" y="-15" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="234" y="102"/>
+      <point x="198" y="161"/>
+      <point x="198" y="321" type="curve" smooth="yes"/>
+      <point x="198" y="486"/>
+      <point x="234" y="545"/>
+      <point x="335" y="545" type="curve" smooth="yes"/>
+      <point x="436" y="545"/>
+      <point x="472" y="486"/>
+      <point x="472" y="321" type="curve" smooth="yes"/>
+      <point x="472" y="161"/>
+      <point x="436" y="102"/>
+      <point x="335" y="102" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="412" y="697" type="line"/>
+      <point x="552" y="901" type="line"/>
+      <point x="389" y="901" type="line"/>
+      <point x="334" y="793" type="line"/>
+      <point x="277" y="901" type="line"/>
+      <point x="117" y="901" type="line"/>
+      <point x="258" y="697" type="line"/>
+    </contour>
+  </outline>
+</glyph>

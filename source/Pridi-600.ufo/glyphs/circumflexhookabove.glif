@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexhookabove" format="1">
+  <advance width="0"/>
+  <note>
+	circumflexhookabove
+  </note>
+  <outline>
+    <contour>
+      <point x="-342" y="558" type="line"/>
+      <point x="-294" y="629" type="line"/>
+      <point x="-242" y="558" type="line"/>
+      <point x="-114" y="558" type="line"/>
+      <point x="-228" y="699" type="line"/>
+      <point x="-359" y="699" type="line"/>
+      <point x="-472" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="-111" y="695" type="line"/>
+      <point x="-111" y="718" type="line"/>
+      <point x="-79" y="728"/>
+      <point x="-64" y="748"/>
+      <point x="-64" y="779" type="curve" smooth="yes"/>
+      <point x="-64" y="825"/>
+      <point x="-97" y="847"/>
+      <point x="-161" y="847" type="curve" smooth="yes"/>
+      <point x="-190" y="847"/>
+      <point x="-214" y="843"/>
+      <point x="-229" y="838" type="curve"/>
+      <point x="-229" y="778" type="line"/>
+      <point x="-219" y="782"/>
+      <point x="-207" y="785"/>
+      <point x="-194" y="785" type="curve" smooth="yes"/>
+      <point x="-176" y="785"/>
+      <point x="-165" y="777"/>
+      <point x="-165" y="763" type="curve" smooth="yes"/>
+      <point x="-165" y="746"/>
+      <point x="-175" y="736"/>
+      <point x="-209" y="736" type="curve"/>
+      <point x="-209" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftArrow" format="1">
+  <advance width="720"/>
+  <unicode hex="2190"/>
+  <note>
+	arrowleft
+  </note>
+  <outline>
+    <contour>
+      <point x="312" y="161" type="line"/>
+      <point x="207" y="241" type="line"/>
+      <point x="688" y="241" type="line"/>
+      <point x="688" y="342" type="line"/>
+      <point x="207" y="342" type="line"/>
+      <point x="312" y="421" type="line"/>
+      <point x="312" y="551" type="line"/>
+      <point x="31" y="321" type="line"/>
+      <point x="31" y="261" type="line"/>
+      <point x="312" y="32" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiTho-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiTho-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-118" y="847" type="line" smooth="yes"/>
+      <point x="-11" y="847"/>
+      <point x="47" y="922"/>
+      <point x="47" y="1016" type="curve" smooth="yes"/>
+      <point x="47" y="1037" type="line"/>
+      <point x="-55" y="1037" type="line"/>
+      <point x="-55" y="1019" type="line" smooth="yes"/>
+      <point x="-55" y="960"/>
+      <point x="-69" y="931"/>
+      <point x="-114" y="924" type="curve"/>
+      <point x="-102" y="943"/>
+      <point x="-98" y="962"/>
+      <point x="-98" y="985" type="curve" smooth="yes"/>
+      <point x="-98" y="1039"/>
+      <point x="-119" y="1060"/>
+      <point x="-183" y="1060" type="curve" smooth="yes"/>
+      <point x="-247" y="1060"/>
+      <point x="-274" y="1041"/>
+      <point x="-274" y="988" type="curve" smooth="yes"/>
+      <point x="-274" y="945"/>
+      <point x="-252" y="921"/>
+      <point x="-200" y="923" type="curve"/>
+      <point x="-208" y="907"/>
+      <point x="-224" y="910"/>
+      <point x="-244" y="910" type="curve"/>
+      <point x="-244" y="847" type="line"/>
+    </contour>
+    <contour>
+      <point x="-207" y="961"/>
+      <point x="-214" y="967"/>
+      <point x="-214" y="989" type="curve" smooth="yes"/>
+      <point x="-214" y="1011"/>
+      <point x="-207" y="1016"/>
+      <point x="-184" y="1016" type="curve" smooth="yes"/>
+      <point x="-162" y="1016"/>
+      <point x="-155" y="1011"/>
+      <point x="-155" y="989" type="curve" smooth="yes"/>
+      <point x="-155" y="968"/>
+      <point x="-162" y="961"/>
+      <point x="-184" y="961" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-41" y="723" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-41" y="522" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

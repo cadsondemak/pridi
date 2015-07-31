@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisgrave" format="1">
+  <advance width="0"/>
+  <note>
+	dieresisgrave
+  </note>
+  <outline>
+    <contour>
+      <point x="-177" y="686" type="line"/>
+      <point x="-238" y="832" type="line"/>
+      <point x="-387" y="832" type="line"/>
+      <point x="-285" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="-296" y="531" type="line"/>
+      <point x="-296" y="649" type="line"/>
+      <point x="-410" y="649" type="line"/>
+      <point x="-410" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="-56" y="531" type="line"/>
+      <point x="-56" y="649" type="line"/>
+      <point x="-172" y="649" type="line"/>
+      <point x="-172" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiHanaKat-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E31"/>
+  <note>
+	maiHanaKat-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-40" y="574"/>
+      <point x="39" y="604"/>
+      <point x="93" y="660" type="curve"/>
+      <point x="32" y="741" type="line"/>
+      <point x="2" y="712"/>
+      <point x="-42" y="689"/>
+      <point x="-83" y="686" type="curve"/>
+      <point x="-95" y="684"/>
+      <point x="-107" y="684"/>
+      <point x="-117" y="685" type="curve"/>
+      <point x="-112" y="703"/>
+      <point x="-111" y="718"/>
+      <point x="-113" y="736" type="curve" smooth="yes"/>
+      <point x="-118" y="793"/>
+      <point x="-146" y="821"/>
+      <point x="-230" y="821" type="curve" smooth="yes"/>
+      <point x="-325" y="821"/>
+      <point x="-360" y="781"/>
+      <point x="-360" y="703" type="curve" smooth="yes"/>
+      <point x="-360" y="612"/>
+      <point x="-292" y="574"/>
+      <point x="-148" y="574" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-262" y="673"/>
+      <point x="-270" y="681"/>
+      <point x="-270" y="709" type="curve" smooth="yes"/>
+      <point x="-270" y="737"/>
+      <point x="-262" y="745"/>
+      <point x="-233" y="745" type="curve" smooth="yes"/>
+      <point x="-204" y="745"/>
+      <point x="-195" y="737"/>
+      <point x="-195" y="709" type="curve" smooth="yes"/>
+      <point x="-195" y="681"/>
+      <point x="-204" y="673"/>
+      <point x="-233" y="673" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-41" y="538" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-41" y="260" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

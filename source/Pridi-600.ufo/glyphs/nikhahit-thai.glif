@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nikhahit-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E4D"/>
+  <note>
+	nikhahit-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="-49" y="583"/>
+      <point x="-4" y="618"/>
+      <point x="-4" y="696" type="curve" smooth="yes"/>
+      <point x="-4" y="774"/>
+      <point x="-49" y="808"/>
+      <point x="-127" y="808" type="curve" smooth="yes"/>
+      <point x="-206" y="808"/>
+      <point x="-250" y="774"/>
+      <point x="-250" y="696" type="curve" smooth="yes"/>
+      <point x="-250" y="618"/>
+      <point x="-206" y="583"/>
+      <point x="-127" y="583" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-153" y="662"/>
+      <point x="-165" y="674"/>
+      <point x="-165" y="696" type="curve" smooth="yes"/>
+      <point x="-165" y="719"/>
+      <point x="-153" y="730"/>
+      <point x="-127" y="730" type="curve" smooth="yes"/>
+      <point x="-102" y="730"/>
+      <point x="-90" y="719"/>
+      <point x="-90" y="696" type="curve" smooth="yes"/>
+      <point x="-90" y="673"/>
+      <point x="-102" y="662"/>
+      <point x="-127" y="662" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-56" y="519" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-41" y="260" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftWhiteTriangle" format="1">
+  <advance width="575"/>
+  <unicode hex="25C1"/>
+  <note>
+	uni25C1
+  </note>
+  <outline>
+    <contour>
+      <point x="550" y="599" type="line"/>
+      <point x="25" y="299" type="line"/>
+      <point x="550" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="299" type="line"/>
+      <point x="500" y="499" type="line"/>
+      <point x="500" y="99" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saraAm-thai" format="1">
+  <advance width="439"/>
+  <unicode hex="0E33"/>
+  <note>
+	saraAm-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="345" type="line" smooth="yes"/>
+      <point x="398" y="458"/>
+      <point x="355" y="544"/>
+      <point x="185" y="544" type="curve" smooth="yes"/>
+      <point x="105" y="544"/>
+      <point x="47" y="523"/>
+      <point x="-5" y="478" type="curve"/>
+      <point x="56" y="393" type="line"/>
+      <point x="82" y="418"/>
+      <point x="116" y="437"/>
+      <point x="156" y="437" type="curve" smooth="yes"/>
+      <point x="214" y="437"/>
+      <point x="238" y="410"/>
+      <point x="238" y="347" type="curve" smooth="yes"/>
+      <point x="238" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-49" y="583"/>
+      <point x="-4" y="618"/>
+      <point x="-4" y="696" type="curve" smooth="yes"/>
+      <point x="-4" y="774"/>
+      <point x="-49" y="808"/>
+      <point x="-127" y="808" type="curve" smooth="yes"/>
+      <point x="-206" y="808"/>
+      <point x="-250" y="774"/>
+      <point x="-250" y="696" type="curve" smooth="yes"/>
+      <point x="-250" y="618"/>
+      <point x="-206" y="583"/>
+      <point x="-127" y="583" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-153" y="662"/>
+      <point x="-165" y="674"/>
+      <point x="-165" y="696" type="curve" smooth="yes"/>
+      <point x="-165" y="719"/>
+      <point x="-153" y="730"/>
+      <point x="-127" y="730" type="curve" smooth="yes"/>
+      <point x="-102" y="730"/>
+      <point x="-90" y="719"/>
+      <point x="-90" y="696" type="curve" smooth="yes"/>
+      <point x="-90" y="673"/>
+      <point x="-102" y="662"/>
+      <point x="-127" y="662" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute" format="1">
+  <advance width="776"/>
+  <unicode hex="1EE8"/>
+  <note>
+	Uhornacute
+  </note>
+  <outline>
+    <contour>
+      <point x="517" y="-15"/>
+      <point x="600" y="66"/>
+      <point x="600" y="187" type="curve" smooth="yes"/>
+      <point x="600" y="483" type="line"/>
+      <point x="742" y="493"/>
+      <point x="790" y="556"/>
+      <point x="790" y="649" type="curve" smooth="yes"/>
+      <point x="790" y="689" type="line"/>
+      <point x="639" y="689" type="line"/>
+      <point x="639" y="650" type="line" smooth="yes"/>
+      <point x="639" y="613"/>
+      <point x="630" y="596"/>
+      <point x="600" y="591" type="curve"/>
+      <point x="600" y="647" type="line"/>
+      <point x="389" y="647" type="line"/>
+      <point x="389" y="546" type="line"/>
+      <point x="406" y="546" type="line" smooth="yes"/>
+      <point x="434" y="546"/>
+      <point x="445" y="533"/>
+      <point x="445" y="508" type="curve" smooth="yes"/>
+      <point x="445" y="181" type="line" smooth="yes"/>
+      <point x="445" y="114"/>
+      <point x="406" y="87"/>
+      <point x="336" y="87" type="curve" smooth="yes"/>
+      <point x="266" y="87"/>
+      <point x="227" y="114"/>
+      <point x="227" y="181" type="curve" smooth="yes"/>
+      <point x="227" y="508" type="line" smooth="yes"/>
+      <point x="227" y="533"/>
+      <point x="238" y="546"/>
+      <point x="267" y="546" type="curve" smooth="yes"/>
+      <point x="283" y="546" type="line"/>
+      <point x="283" y="647" type="line"/>
+      <point x="11" y="647" type="line"/>
+      <point x="11" y="546" type="line"/>
+      <point x="32" y="546" type="line" smooth="yes"/>
+      <point x="61" y="546"/>
+      <point x="72" y="533"/>
+      <point x="72" y="509" type="curve" smooth="yes"/>
+      <point x="72" y="187" type="line" smooth="yes"/>
+      <point x="72" y="66"/>
+      <point x="155" y="-15"/>
+      <point x="336" y="-15" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="389" y="699" type="line"/>
+      <point x="502" y="879" type="line"/>
+      <point x="331" y="879" type="line"/>
+      <point x="256" y="699" type="line"/>
+    </contour>
+  </outline>
+</glyph>

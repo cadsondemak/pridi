@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="firsttonechinese" format="1">
+  <advance width="587"/>
+  <unicode hex="02C9"/>
+  <note>
+	uni02C9
+  </note>
+  <outline>
+    <contour>
+      <point x="448" y="534" type="line"/>
+      <point x="448" y="626" type="line"/>
+      <point x="141" y="626" type="line"/>
+      <point x="141" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>
