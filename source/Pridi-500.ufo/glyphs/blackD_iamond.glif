@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackDiamond" format="1">
+  <advance width="594"/>
+  <unicode hex="25C6"/>
+  <note>
+	uni25C6
+  </note>
+  <outline>
+    <contour>
+      <point x="557" y="300" type="line"/>
+      <point x="297" y="560" type="line"/>
+      <point x="37" y="300" type="line"/>
+      <point x="297" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>

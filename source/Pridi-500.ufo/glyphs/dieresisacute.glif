@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacute" format="1">
+  <advance width="0"/>
+  <note>
+	dieresisacute
+  </note>
+  <outline>
+    <contour>
+      <point x="-189" y="701" type="line"/>
+      <point x="-89" y="843" type="line"/>
+      <point x="-214" y="843" type="line"/>
+      <point x="-276" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="-297" y="544" type="line"/>
+      <point x="-297" y="653" type="line"/>
+      <point x="-398" y="653" type="line"/>
+      <point x="-398" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="-68" y="544" type="line"/>
+      <point x="-68" y="653" type="line"/>
+      <point x="-171" y="653" type="line"/>
+      <point x="-171" y="544" type="line"/>
+    </contour>
+  </outline>
+</glyph>

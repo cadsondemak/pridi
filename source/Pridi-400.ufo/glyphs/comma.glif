@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="226"/>
+  <unicode hex="002C"/>
+  <note>
+	comma
+  </note>
+  <outline>
+    <contour>
+      <point x="120" y="-118" type="line"/>
+      <point x="183" y="88" type="line"/>
+      <point x="75" y="88" type="line"/>
+      <point x="43" y="-118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotbelow" format="1">
+  <advance width="303"/>
+  <unicode hex="1ECA"/>
+  <note>
+	Idotbelow
+  </note>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="270" y="73" type="line"/>
+      <point x="241" y="73" type="line" smooth="yes"/>
+      <point x="215" y="73"/>
+      <point x="205" y="84"/>
+      <point x="205" y="110" type="curve" smooth="yes"/>
+      <point x="205" y="537" type="line" smooth="yes"/>
+      <point x="205" y="562"/>
+      <point x="215" y="573"/>
+      <point x="241" y="573" type="curve" smooth="yes"/>
+      <point x="270" y="573" type="line"/>
+      <point x="270" y="647" type="line"/>
+      <point x="33" y="647" type="line"/>
+      <point x="33" y="573" type="line"/>
+      <point x="62" y="573" type="line" smooth="yes"/>
+      <point x="89" y="573"/>
+      <point x="99" y="562"/>
+      <point x="99" y="537" type="curve" smooth="yes"/>
+      <point x="99" y="111" type="line" smooth="yes"/>
+      <point x="99" y="84"/>
+      <point x="89" y="73"/>
+      <point x="62" y="73" type="curve" smooth="yes"/>
+      <point x="33" y="73" type="line"/>
+      <point x="33" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="-158" type="line"/>
+      <point x="197" y="-62" type="line"/>
+      <point x="105" y="-62" type="line"/>
+      <point x="105" y="-158" type="line"/>
+    </contour>
+  </outline>
+</glyph>

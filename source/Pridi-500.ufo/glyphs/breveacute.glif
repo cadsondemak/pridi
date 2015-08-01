@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveacute" format="1">
+  <advance width="0"/>
+  <note>
+	breveacute
+  </note>
+  <outline>
+    <contour>
+      <point x="-194" y="546"/>
+      <point x="-116" y="604"/>
+      <point x="-116" y="705" type="curve"/>
+      <point x="-207" y="705" type="line"/>
+      <point x="-207" y="654"/>
+      <point x="-232" y="623"/>
+      <point x="-292" y="623" type="curve" smooth="yes"/>
+      <point x="-348" y="623"/>
+      <point x="-375" y="654"/>
+      <point x="-375" y="705" type="curve"/>
+      <point x="-467" y="705" type="line"/>
+      <point x="-467" y="604"/>
+      <point x="-388" y="546"/>
+      <point x="-292" y="546" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-256" y="701" type="line"/>
+      <point x="-156" y="843" type="line"/>
+      <point x="-281" y="843" type="line"/>
+      <point x="-343" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="578"/>
+  <unicode hex="2021"/>
+  <note>
+	daggerdbl
+  </note>
+  <outline>
+    <contour>
+      <point x="342" y="0" type="line"/>
+      <point x="336" y="214" type="line"/>
+      <point x="535" y="208" type="line"/>
+      <point x="535" y="284" type="line"/>
+      <point x="337" y="278" type="line"/>
+      <point x="340" y="393" type="line"/>
+      <point x="337" y="506" type="line"/>
+      <point x="535" y="500" type="line"/>
+      <point x="535" y="576" type="line"/>
+      <point x="337" y="571" type="line"/>
+      <point x="342" y="783" type="line"/>
+      <point x="236" y="783" type="line"/>
+      <point x="242" y="571" type="line"/>
+      <point x="43" y="576" type="line"/>
+      <point x="43" y="500" type="line"/>
+      <point x="241" y="506" type="line"/>
+      <point x="238" y="393" type="line"/>
+      <point x="241" y="278" type="line"/>
+      <point x="43" y="284" type="line"/>
+      <point x="43" y="208" type="line"/>
+      <point x="108" y="210"/>
+      <point x="178" y="212"/>
+      <point x="241" y="214" type="curve"/>
+      <point x="236" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

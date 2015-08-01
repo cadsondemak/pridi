@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexgrave" format="1">
+  <advance width="0"/>
+  <note>
+	circumflexgrave
+  </note>
+  <outline>
+    <contour>
+      <point x="-308" y="564" type="line"/>
+      <point x="-246" y="649" type="line"/>
+      <point x="-182" y="564" type="line"/>
+      <point x="-89" y="564" type="line"/>
+      <point x="-196" y="699" type="line"/>
+      <point x="-296" y="699" type="line"/>
+      <point x="-403" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="-345" y="673" type="line"/>
+      <point x="-408" y="800" type="line"/>
+      <point x="-521" y="800" type="line"/>
+      <point x="-423" y="673" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiEk-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiEk-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-53" y="852" type="line"/>
+      <point x="-53" y="989" type="line"/>
+      <point x="-149" y="989" type="line"/>
+      <point x="-149" y="852" type="line"/>
+    </contour>
+    <contour>
+      <point x="-53" y="743" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-53" y="542" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightWhiteTriangle" format="1">
+  <advance width="599"/>
+  <unicode hex="25B7"/>
+  <note>
+	uni25B7
+  </note>
+  <outline>
+    <contour>
+      <point x="562" y="299" type="line"/>
+      <point x="37" y="599" type="line"/>
+      <point x="37" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="499" type="line"/>
+      <point x="461" y="299" type="line"/>
+      <point x="87" y="99" type="line"/>
+    </contour>
+  </outline>
+</glyph>

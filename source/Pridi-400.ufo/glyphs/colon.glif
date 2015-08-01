@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="181"/>
+  <unicode hex="003A"/>
+  <note>
+	colon
+  </note>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="99" type="line"/>
+      <point x="43" y="99" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="396" type="line"/>
+      <point x="138" y="494" type="line"/>
+      <point x="43" y="494" type="line"/>
+      <point x="43" y="396" type="line"/>
+    </contour>
+  </outline>
+</glyph>

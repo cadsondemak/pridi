@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <note>
+	dotbelowcomb
+  </note>
+  <outline>
+    <contour>
+      <point x="-253" y="-171" type="line"/>
+      <point x="-253" y="-61" type="line"/>
+      <point x="-357" y="-61" type="line"/>
+      <point x="-357" y="-171" type="line"/>
+    </contour>
+  </outline>
+</glyph>

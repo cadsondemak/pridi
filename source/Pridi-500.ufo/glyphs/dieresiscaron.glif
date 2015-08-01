@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscaron" format="1">
+  <advance width="0"/>
+  <note>
+	dieresiscaron
+  </note>
+  <outline>
+    <contour>
+      <point x="-174" y="686" type="line"/>
+      <point x="-63" y="824" type="line"/>
+      <point x="-174" y="824" type="line"/>
+      <point x="-232" y="746" type="line"/>
+      <point x="-287" y="824" type="line"/>
+      <point x="-400" y="824" type="line"/>
+      <point x="-290" y="686" type="line"/>
+    </contour>
+    <contour>
+      <point x="-295" y="544" type="line"/>
+      <point x="-295" y="653" type="line"/>
+      <point x="-398" y="653" type="line"/>
+      <point x="-398" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="-68" y="544" type="line"/>
+      <point x="-68" y="653" type="line"/>
+      <point x="-169" y="653" type="line"/>
+      <point x="-169" y="544" type="line"/>
+    </contour>
+  </outline>
+</glyph>
