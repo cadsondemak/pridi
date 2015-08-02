@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="maiTho-thai.small" format="1">
+  <advance width="0"/>
+  <note>
+	maiTho-thai.small
+  </note>
+  <outline>
+    <contour>
+      <point x="-123" y="853" type="line" smooth="yes"/>
+      <point x="-17" y="853"/>
+      <point x="36" y="929"/>
+      <point x="36" y="1008" type="curve" smooth="yes"/>
+      <point x="36" y="1022" type="line"/>
+      <point x="-25" y="1022" type="line"/>
+      <point x="-25" y="1011" type="line" smooth="yes"/>
+      <point x="-25" y="943"/>
+      <point x="-60" y="902"/>
+      <point x="-126" y="900" type="curve"/>
+      <point x="-106" y="919"/>
+      <point x="-100" y="947"/>
+      <point x="-100" y="973" type="curve" smooth="yes"/>
+      <point x="-100" y="1021"/>
+      <point x="-119" y="1042"/>
+      <point x="-174" y="1042" type="curve" smooth="yes"/>
+      <point x="-225" y="1042"/>
+      <point x="-248" y="1024"/>
+      <point x="-248" y="976" type="curve" smooth="yes"/>
+      <point x="-248" y="934"/>
+      <point x="-227" y="917"/>
+      <point x="-192" y="915" type="curve"/>
+      <point x="-185" y="915"/>
+      <point x="-179" y="915"/>
+      <point x="-173" y="916" type="curve"/>
+      <point x="-181" y="899"/>
+      <point x="-195" y="896"/>
+      <point x="-223" y="896" type="curve"/>
+      <point x="-223" y="853" type="line"/>
+    </contour>
+    <contour>
+      <point x="-201" y="943"/>
+      <point x="-209" y="952"/>
+      <point x="-209" y="976" type="curve" smooth="yes"/>
+      <point x="-209" y="1002"/>
+      <point x="-201" y="1008"/>
+      <point x="-174" y="1008" type="curve" smooth="yes"/>
+      <point x="-150" y="1008"/>
+      <point x="-139" y="1002"/>
+      <point x="-139" y="976" type="curve" smooth="yes"/>
+      <point x="-139" y="953"/>
+      <point x="-147" y="943"/>
+      <point x="-174" y="943" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-59" y="743" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-59" y="542" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

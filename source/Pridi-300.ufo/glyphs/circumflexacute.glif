@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexacute" format="1">
+  <advance width="0"/>
+  <note>
+	circumflexacute
+  </note>
+  <outline>
+    <contour>
+      <point x="-364" y="567" type="line"/>
+      <point x="-294" y="659" type="line"/>
+      <point x="-225" y="567" type="line"/>
+      <point x="-148" y="567" type="line"/>
+      <point x="-252" y="698" type="line"/>
+      <point x="-336" y="698" type="line"/>
+      <point x="-440" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="-137" y="674" type="line"/>
+      <point x="-41" y="795" type="line"/>
+      <point x="-137" y="795" type="line"/>
+      <point x="-200" y="674" type="line"/>
+    </contour>
+  </outline>
+</glyph>

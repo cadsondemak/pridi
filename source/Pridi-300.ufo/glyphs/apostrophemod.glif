@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="271"/>
+  <unicode hex="02BC"/>
+  <note>
+	uni02BC
+  </note>
+  <outline>
+    <contour>
+      <point x="123" y="451" type="line"/>
+      <point x="222" y="660" type="line"/>
+      <point x="115" y="660" type="line"/>
+      <point x="49" y="451" type="line"/>
+    </contour>
+  </outline>
+</glyph>

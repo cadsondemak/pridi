@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent" format="1">
+  <advance width="261"/>
+  <unicode hex="0130"/>
+  <note>
+	Idotaccent
+  </note>
+  <outline>
+    <contour>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="45" type="line"/>
+      <point x="191" y="45" type="line" smooth="yes"/>
+      <point x="166" y="45"/>
+      <point x="157" y="54"/>
+      <point x="157" y="81" type="curve" smooth="yes"/>
+      <point x="157" y="566" type="line" smooth="yes"/>
+      <point x="157" y="593"/>
+      <point x="166" y="602"/>
+      <point x="191" y="602" type="curve" smooth="yes"/>
+      <point x="226" y="602" type="line"/>
+      <point x="226" y="647" type="line"/>
+      <point x="35" y="647" type="line"/>
+      <point x="35" y="602" type="line"/>
+      <point x="70" y="602" type="line" smooth="yes"/>
+      <point x="95" y="602"/>
+      <point x="104" y="593"/>
+      <point x="104" y="566" type="curve" smooth="yes"/>
+      <point x="104" y="81" type="line" smooth="yes"/>
+      <point x="104" y="54"/>
+      <point x="95" y="45"/>
+      <point x="70" y="45" type="curve" smooth="yes"/>
+      <point x="35" y="45" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="723" type="line"/>
+      <point x="164" y="791" type="line"/>
+      <point x="96" y="791" type="line"/>
+      <point x="96" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

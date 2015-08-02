@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="woWaen-thai" format="1">
+  <advance width="465"/>
+  <unicode hex="0E27"/>
+  <note>
+	woWaen-thai
+  </note>
+  <outline>
+    <contour>
+      <point x="382" y="-15"/>
+      <point x="406" y="13"/>
+      <point x="406" y="82" type="curve" smooth="yes"/>
+      <point x="406" y="357" type="line" smooth="yes"/>
+      <point x="406" y="469"/>
+      <point x="361" y="544"/>
+      <point x="208" y="544" type="curve" smooth="yes"/>
+      <point x="130" y="544"/>
+      <point x="80" y="523"/>
+      <point x="19" y="471" type="curve"/>
+      <point x="58" y="424" type="line"/>
+      <point x="106" y="466"/>
+      <point x="149" y="485"/>
+      <point x="204" y="485" type="curve" smooth="yes"/>
+      <point x="292" y="485"/>
+      <point x="325" y="446"/>
+      <point x="325" y="362" type="curve" smooth="yes"/>
+      <point x="325" y="160" type="line"/>
+      <point x="315" y="163"/>
+      <point x="306" y="164"/>
+      <point x="295" y="164" type="curve" smooth="yes"/>
+      <point x="242" y="164"/>
+      <point x="211" y="135"/>
+      <point x="211" y="76" type="curve" smooth="yes"/>
+      <point x="211" y="13"/>
+      <point x="238" y="-15"/>
+      <point x="308" y="-15" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="272" y="32"/>
+      <point x="261" y="42"/>
+      <point x="261" y="76" type="curve" smooth="yes"/>
+      <point x="261" y="107"/>
+      <point x="272" y="119"/>
+      <point x="307" y="119" type="curve" smooth="yes"/>
+      <point x="341" y="119"/>
+      <point x="352" y="106"/>
+      <point x="352" y="76" type="curve" smooth="yes"/>
+      <point x="352" y="42"/>
+      <point x="341" y="32"/>
+      <point x="307" y="32" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="406" y="277" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="406" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

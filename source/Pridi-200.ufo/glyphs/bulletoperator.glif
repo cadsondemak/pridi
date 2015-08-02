@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bulletoperator" format="1">
+  <advance width="179"/>
+  <unicode hex="2219"/>
+  <note>
+	uni2219
+  </note>
+  <outline>
+    <contour>
+      <point x="124" y="272" type="line"/>
+      <point x="124" y="341" type="line"/>
+      <point x="55" y="341" type="line"/>
+      <point x="55" y="272" type="line"/>
+    </contour>
+  </outline>
+</glyph>

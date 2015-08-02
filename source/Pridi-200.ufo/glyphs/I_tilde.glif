@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="1">
+  <advance width="281"/>
+  <unicode hex="0128"/>
+  <note>
+	Itilde
+  </note>
+  <outline>
+    <contour>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="45" type="line"/>
+      <point x="201" y="45" type="line" smooth="yes"/>
+      <point x="176" y="45"/>
+      <point x="167" y="54"/>
+      <point x="167" y="81" type="curve" smooth="yes"/>
+      <point x="167" y="566" type="line" smooth="yes"/>
+      <point x="167" y="593"/>
+      <point x="176" y="602"/>
+      <point x="201" y="602" type="curve" smooth="yes"/>
+      <point x="236" y="602" type="line"/>
+      <point x="236" y="647" type="line"/>
+      <point x="45" y="647" type="line"/>
+      <point x="45" y="602" type="line"/>
+      <point x="80" y="602" type="line" smooth="yes"/>
+      <point x="105" y="602"/>
+      <point x="114" y="593"/>
+      <point x="114" y="566" type="curve" smooth="yes"/>
+      <point x="114" y="81" type="line" smooth="yes"/>
+      <point x="114" y="54"/>
+      <point x="105" y="45"/>
+      <point x="80" y="45" type="curve" smooth="yes"/>
+      <point x="45" y="45" type="line"/>
+      <point x="45" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="703" type="line"/>
+      <point x="11" y="752"/>
+      <point x="27" y="762"/>
+      <point x="56" y="762" type="curve" smooth="yes"/>
+      <point x="116" y="762"/>
+      <point x="157" y="703"/>
+      <point x="223" y="703" type="curve" smooth="yes"/>
+      <point x="281" y="703"/>
+      <point x="315" y="734"/>
+      <point x="315" y="808" type="curve"/>
+      <point x="268" y="808" type="line"/>
+      <point x="268" y="759"/>
+      <point x="252" y="749"/>
+      <point x="223" y="749" type="curve" smooth="yes"/>
+      <point x="170" y="749"/>
+      <point x="127" y="808"/>
+      <point x="56" y="808" type="curve" smooth="yes"/>
+      <point x="-2" y="808"/>
+      <point x="-36" y="777"/>
+      <point x="-36" y="703" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

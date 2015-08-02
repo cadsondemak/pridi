@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.inferior" format="1">
+  <advance width="326"/>
+  <unicode hex="2084"/>
+  <note>
+	four.inferior
+  </note>
+  <outline>
+    <contour>
+      <point x="281" y="-136" type="line"/>
+      <point x="281" y="-100" type="line"/>
+      <point x="251" y="-100" type="line" smooth="yes"/>
+      <point x="235" y="-100"/>
+      <point x="232" y="-95"/>
+      <point x="232" y="-83" type="curve" smooth="yes"/>
+      <point x="232" y="-53" type="line"/>
+      <point x="291" y="-53" type="line"/>
+      <point x="291" y="-18" type="line"/>
+      <point x="232" y="-18" type="line"/>
+      <point x="232" y="176" type="line"/>
+      <point x="186" y="176" type="line"/>
+      <point x="35" y="-18" type="line"/>
+      <point x="35" y="-53" type="line"/>
+      <point x="190" y="-53" type="line"/>
+      <point x="190" y="-83" type="line" smooth="yes"/>
+      <point x="190" y="-95"/>
+      <point x="187" y="-100"/>
+      <point x="172" y="-100" type="curve" smooth="yes"/>
+      <point x="141" y="-100" type="line"/>
+      <point x="141" y="-136" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="128" type="line"/>
+      <point x="193" y="-18" type="line"/>
+      <point x="81" y="-18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

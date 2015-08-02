@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi" format="1">
+  <advance width="615"/>
+  <unicode hex="20B5"/>
+  <note>
+	uni20B5
+  </note>
+  <outline>
+    <contour>
+      <point x="375" y="-120" type="line"/>
+      <point x="375" y="-15" type="line"/>
+      <point x="442" y="-14"/>
+      <point x="500" y="-3"/>
+      <point x="550" y="27" type="curve"/>
+      <point x="526" y="66" type="line"/>
+      <point x="484" y="42"/>
+      <point x="436" y="31"/>
+      <point x="375" y="31" type="curve"/>
+      <point x="375" y="616" type="line"/>
+      <point x="430" y="615"/>
+      <point x="473" y="605"/>
+      <point x="507" y="588" type="curve"/>
+      <point x="507" y="533" type="line"/>
+      <point x="560" y="533" type="line"/>
+      <point x="560" y="611" type="line"/>
+      <point x="516" y="642"/>
+      <point x="454" y="660"/>
+      <point x="375" y="662" type="curve"/>
+      <point x="375" y="767" type="line"/>
+      <point x="322" y="767" type="line"/>
+      <point x="322" y="660" type="line"/>
+      <point x="142" y="642"/>
+      <point x="55" y="502"/>
+      <point x="55" y="321" type="curve" smooth="yes"/>
+      <point x="55" y="143"/>
+      <point x="150" y="8"/>
+      <point x="322" y="-12" type="curve"/>
+      <point x="322" y="-120" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="55"/>
+      <point x="106" y="159"/>
+      <point x="106" y="321" type="curve" smooth="yes"/>
+      <point x="106" y="489"/>
+      <point x="187" y="595"/>
+      <point x="322" y="613" type="curve"/>
+      <point x="322" y="34" type="line"/>
+    </contour>
+  </outline>
+</glyph>
