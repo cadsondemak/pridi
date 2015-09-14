@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Pridi-SemiBold';
-    src: url('./fonts/Pridi-Semibold.eot');
-    src: url('./fonts/Pridi-Semibold.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Pridi-Semibold.woff2') format('woff2'),
-         url('./fonts/Pridi-Semibold.woff') format('woff'),
-         url('./fonts/Pridi-Semibold.ttf') format('truetype');
+    src: url('./fonts/Pridi-SemiBold.eot');
+    src: url('./fonts/Pridi-SemiBold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-SemiBold.woff2') format('woff2'),
+         url('./fonts/Pridi-SemiBold.woff') format('woff'),
+         url('./fonts/Pridi-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
