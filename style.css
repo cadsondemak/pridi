@@ -1,34 +1,34 @@
 @font-face {
-    font-family: Pridi-ExtraLight;
+    font-family: 'Pridi-ExtraLight';
     src: url('fonts/Pridi-ExtraLight.ttf') format('truetype'),
          url('fonts/Pridi-ExtraLight.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-family: Pridi-Light;
+
+    font-family: 'Pridi-Light';
     src: url('fonts/Pridi-Light.ttf') format('truetype'),
          url('fonts/Pridi-Light.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-Light.woff') format('woff');
-    font-weight: 300;
-    font-family: Pridi-Regular;
+
+    font-family: 'Pridi-Regular';
     src: url('fonts/Pridi-Regular.ttf') format('truetype'),
          url('fonts/Pridi-Regular.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-Regular.woff') format('woff');
-    font-weight: 400;
-    font-family: Pridi-Medium;
+
+    font-family: 'Pridi-Medium';
     src: url('fonts/Pridi-Medium.ttf') format('truetype'),
          url('fonts/Pridi-Medium.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-Medium.woff') format('woff');
-    font-weight: 500;
-    font-family: Pridi-SemiBold;
+
+    font-family: 'Pridi-SemiBold';
     src: url('fonts/Pridi-SemiBold.ttf') format('truetype'),
          url('fonts/Pridi-SemiBold.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-family: Pridi-Bold;
+
+    font-family: 'Pridi-Bold';
     src: url('fonts/Pridi-Bold.ttf') format('truetype'),
          url('fonts/Pridi-Bold.eot?#iefix') format('embedded-opentype'),
          url('fonts/Pridi-Bold.woff') format('woff');
-    font-weight: 700;
+
 }
 
 #block-1 {
@@ -38,27 +38,27 @@
 }
 
 #block-1-header {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   font-size: 25pt;
-  font-weight: 200;
+
   line-height: 200%;
   text-align: center;
   padding-top: 250px;
 }
 
 #name {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 90pt;
-  font-weight: 500;
+
 }
 
 #block-2 {
   color: #00A99D;
   background-color: #FFF;
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   font-size: 50pt;
   line-height: 120%;
-  font-weight: 400;
+
   text-align: left;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -72,9 +72,9 @@
 }
 
 #block-3-text {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 20pt;
-  font-weight: 500;
+
   line-height: 140%;
   text-align: right;
   padding-top: 260px;
@@ -88,9 +88,9 @@
 }
 
 #block-4-text {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 24pt;
-  font-weight: 500;
+
   line-height: 120%;
   text-align: left;
   padding-top: 430px;
@@ -104,117 +104,117 @@
 }
 
 #block-5-Title {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   font-size: 16pt;
-  font-weight: 400;
+
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-5-text1 {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 200;
+
   text-align: left;
   padding-top: 50px;
 }
 
 #block-5-text1_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
 
 #block-5-text2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 55px;
 }
 
 #block-5-text2_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
 
 #block-5-text3 {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 400;
+
   text-align: left;
   padding-top: 60px;
 }
 
 #block-5-text3_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
 
 #block-5-text4 {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 500;
+
   text-align: left;
   padding-top: 65px;
 }
 
 #block-5-text4_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
 
 #block-5-text5 {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 600;
+
   text-align: left;
   padding-top: 70px;
 }
 
 #block-5-text5_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
 
 #block-5-text6 {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   font-size: 110pt;
   line-height: 100%;
-  font-weight: 700;
+
   text-align: left;
   padding-top: 80px;
 }
 
 #block-5-text6_2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 12pt;
   line-height: 100%;
-  font-weight: 300;
+
   text-align: left;
   padding-top: 20px;
 }
@@ -235,9 +235,9 @@
 }
 
 #block-7-text {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   font-size: 18pt;
-  font-weight: 200;
+
   line-height: 150%;
   text-align: left;
   padding-top: 140px;
@@ -252,9 +252,9 @@
 }
 
 #block-8-text {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   font-size: 20pt;
-  font-weight: 600;
+
   line-height: 150%;
   text-align: left;
   padding-top: 430px;
@@ -268,17 +268,17 @@
 }
 
 #block-9-Title {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 10pt;
-  font-weight: 300;
+
   text-align: left;
   letter-spacing: 0px;
 }
 
 #block-9-Char {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   font-size: 22pt;
-  font-weight: 200;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -286,9 +286,9 @@
 }
 
 #block-9-Num {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   font-size: 22pt;
-  font-weight: 200;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -296,54 +296,54 @@
 }
 
 #block-9-Vowel {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 200;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-9-Sp-Char {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 200;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-9-Symbol {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 200;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-9-Ac-Char {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 200;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-9-Text1 {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 200;
+
   text-align: left;
 }
 
 #block-9-Text2 {
-  font-family: Pridi-ExtraLight;
+  font-family: 'Pridi-ExtraLight';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 200;
+
   text-align: left;
 }
 
@@ -355,9 +355,9 @@
 }
 
 #block-10-Char {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 22pt;
-  font-weight: 300;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -365,9 +365,9 @@
 }
 
 #block-10-Num {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   font-size: 22pt;
-  font-weight: 300;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -375,54 +375,54 @@
 }
 
 #block-10-Vowel {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 300;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-10-Sp-Char {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 300;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-10-Symbol {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 300;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-10-Ac-Char {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 300;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-10-Text1 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 300;
+
   text-align: left;
 }
 
 #block-10-Text2 {
-  font-family: Pridi-Light;
+  font-family: 'Pridi-Light';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 300;
+
   text-align: left;
 }
 
@@ -434,9 +434,9 @@
 }
 
 #block-11-Char {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   font-size: 22pt;
-  font-weight: 400;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -444,9 +444,9 @@
 }
 
 #block-11-Num {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   font-size: 22pt;
-  font-weight: 400;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -454,54 +454,54 @@
 }
 
 #block-11-Vowel {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 400;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-11-Sp-Char {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 400;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-11-Symbol {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 400;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-11-Ac-Char {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 400;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-11-Text1 {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 400;
+
   text-align: left;
 }
 
 #block-11-Text2 {
-  font-family: Pridi-Regular;
+  font-family: 'Pridi-Regular';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 400;
+
   text-align: left;
 }
 
@@ -513,9 +513,9 @@
 }
 
 #block-12-Char {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 22pt;
-  font-weight: 500;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -523,9 +523,9 @@
 }
 
 #block-12-Num {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   font-size: 22pt;
-  font-weight: 500;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -533,54 +533,54 @@
 }
 
 #block-12-Vowel {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 500;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-12-Sp-Char {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 500;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-12-Symbol {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 500;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-12-Ac-Char {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 500;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-12-Text1 {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 500;
+
   text-align: left;
 }
 
 #block-12-Text2 {
-  font-family: Pridi-Medium;
+  font-family: 'Pridi-Medium';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 500;
+
   text-align: left;
 }
 
@@ -592,9 +592,9 @@
 }
 
 #block-13-Char {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   font-size: 22pt;
-  font-weight: 600;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -602,9 +602,9 @@
 }
 
 #block-13-Num {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   font-size: 22pt;
-  font-weight: 600;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -612,54 +612,54 @@
 }
 
 #block-13-Vowel {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 600;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-13-Sp-Char {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 600;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-13-Symbol {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 600;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-13-Ac-Char {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 600;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-13-Text1 {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 600;
+
   text-align: left;
 }
 
 #block-13-Text2 {
-  font-family: Pridi-SemiBold;
+  font-family: 'Pridi-SemiBold';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 600;
+
   text-align: left;
 }
 
@@ -671,9 +671,9 @@
 }
 
 #block-14-Char {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   font-size: 22pt;
-  font-weight: 700;
+
   line-height: 120%;
   text-align: left;
   letter-spacing: 3px;
@@ -681,9 +681,9 @@
 }
 
 #block-14-Num {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   font-size: 22pt;
-  font-weight: 700;
+
   text-align: left;
   line-height: 120%;
   letter-spacing: 3px;
@@ -691,54 +691,54 @@
 }
 
 #block-14-Vowel {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 700;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-14-Sp-Char {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 150%;
   font-size: 22pt;
-  font-weight: 700;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-14-Symbol {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 700;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-14-Ac-Char {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 130%;
   font-size: 22pt;
-  font-weight: 700;
+
   text-align: left;
   padding-bottom: 15px;
 }
 
 #block-14-Text1 {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 125%;
   font-size: 10pt;
-  font-weight: 700;
+
   text-align: left;
 }
 
 #block-14-Text2 {
-  font-family: Pridi-Bold;
+  font-family: 'Pridi-Bold';
   line-height: 125%;
   font-size: 20pt;
-  font-weight: 700;
+
   text-align: left;
 }
 
