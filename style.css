@@ -1,34 +1,55 @@
 @font-face {
     font-family: 'Pridi-ExtraLight';
-    src: url('fonts/Pridi-ExtraLight.ttf') format('truetype'),
-         url('fonts/Pridi-ExtraLight.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-ExtraLight.woff') format('woff');
+    src: url('./fonts/Pridi-ExtraLight.eot');
+    src: url('./fonts/Pridi-ExtraLight.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-ExtraLight.woff2') format('woff2'),
+         url('./fonts/Pridi-ExtraLight.woff') format('woff'),
+         url('./fonts/Pridi-ExtraLight.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Pridi-Light';
-    src: url('fonts/Pridi-Light.ttf') format('truetype'),
-         url('fonts/Pridi-Light.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-Light.woff') format('woff');
+    src: url('./fonts/Pridi-Light.eot');
+    src: url('./fonts/Pridi-Light.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Light.woff2') format('woff2'),
+         url('./fonts/Pridi-Light.woff') format('woff'),
+         url('./fonts/Pridi-Light.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Pridi-Regular';
-    src: url('fonts/Pridi-Regular.ttf') format('truetype'),
-         url('fonts/Pridi-Regular.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-Regular.woff') format('woff');
+    src: url('./fonts/Pridi-Regular.eot');
+    src: url('./fonts/Pridi-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Regular.woff2') format('woff2'),
+         url('./fonts/Pridi-Regular.woff') format('woff'),
+         url('./fonts/Pridi-Regular.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Pridi-Medium';
-    src: url('fonts/Pridi-Medium.ttf') format('truetype'),
-         url('fonts/Pridi-Medium.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-Medium.woff') format('woff');
+    src: url('./fonts/Pridi-Medium.eot');
+    src: url('./fonts/Pridi-Medium.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Medium.woff2') format('woff2'),
+         url('./fonts/Pridi-Medium.woff') format('woff'),
+         url('./fonts/Pridi-Medium.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Pridi-SemiBold';
-    src: url('fonts/Pridi-SemiBold.ttf') format('truetype'),
-         url('fonts/Pridi-SemiBold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-SemiBold.woff') format('woff');
+    src: url('./fonts/Pridi-Semibold.eot');
+    src: url('./fonts/Pridi-Semibold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Semibold.woff2') format('woff2'),
+         url('./fonts/Pridi-Semibold.woff') format('woff'),
+         url('./fonts/Pridi-Semibold.ttf') format('truetype');
+}
 
+@font-face {
     font-family: 'Pridi-Bold';
-    src: url('fonts/Pridi-Bold.ttf') format('truetype'),
-         url('fonts/Pridi-Bold.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Pridi-Bold.woff') format('woff');
-
+    src: url('./fonts/Pridi-Bold.eot');
+    src: url('./fonts/Pridi-Bold.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Pridi-Bold.woff2') format('woff2'),
+         url('./fonts/Pridi-Bold.woff') format('woff'),
+         url('./fonts/Pridi-Bold.ttf') format('truetype');
 }
 
 #block-1 {
