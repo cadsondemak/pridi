@@ -1,4 +1,4 @@
-#Pridi Fonts
+#Pridi Font
 
 Pridi is a Slab Serif Latin and Looped Thai typeface that is well-suited for both body text and display. Loop Terminal Thai, designed specifically within Loopless terminal concept, works well with Slab Serif Latin without adding the Slab to any parts of Thai glyphs.
  
