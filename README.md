@@ -8,7 +8,7 @@ A similarity between some glyphs such as [ก ถ ภ ฤ ฦ] [ฎ ฏ] [บ �
 
 There is a specific approach on how to deal with thick and thin stroke for Thai glyphs. In order to develop Thai fonts, it is encouraged to take this font as an example for such method and other developments.
 
-Informal looped Thai typefaces have slightly simplified details, as compared to formal one, so this allows designers to extend the font to black weights and more in some cases.
+Informal looped Thai typefaces have slightly simplified details, as compared to formal one, so this allows designers to extend the font to black weight and more in some cases.
 
 Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures.
 
